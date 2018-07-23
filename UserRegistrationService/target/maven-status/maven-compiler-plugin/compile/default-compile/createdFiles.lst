@@ -1,0 +1,8 @@
+com\demo\controller\UserController.class
+com\demo\model\User.class
+com\demo\main\Main.class
+com\demo\service\UserService.class
+com\demo\service\UserServiceImpl.class
+com\demo\repository\UserRepository.class
+com\demo\exceptionHandler\GlobalExceptionHandler.class
+com\demo\exceptionHandler\ClientError.class
